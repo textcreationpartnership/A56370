@@ -1,0 +1,750 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief sum of certain worm-wood lectures Translated out of all languages into Billings-Gate dialogue. By Martin Parker.</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56370</idno>
+            <idno type="STC">Wing P434B</idno>
+            <idno type="STC">ESTC R216944</idno>
+            <idno type="EEBO-CITATION">99828657</idno>
+            <idno type="PROQUEST">99828657</idno>
+            <idno type="VID">33088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33088)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1931:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief sum of certain worm-wood lectures Translated out of all languages into Billings-Gate dialogue. By Martin Parker.</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Wright, W. Thackera[y]; and T. Passenger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Caption title on A1v reads: Certain wormwood lectures translated out of several languages into Billings-Gate dialogue.</note>
+                  <note>With title page woodcut.</note>
+                  <note>In filmed copy imprint the "y" of "Thackeray" failed to print.</note>
+                  <note>Copy imprint lacks "y" in "Thackeray".</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge University, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Husband and wife --  Humor --  Early works to 1800.</term>
+               <term>Marriage --  England --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33088:1"/>
+            <pb facs="tcp:33088:1" rendition="simple:additions"/>
+            <p>A brief Sum of Certain <hi>Worm-wood Lectures.</hi>
+            </p>
+            <lg>
+               <l>Which Women uſe to ſing and ſay</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto their Husbands every day.</l>
+            </lg>
+            <p>Tranſlated out of all Languages into <hi>Billings-Gate</hi> Dialogue. By <hi>Martin Parker.</hi>
+            </p>
+            <figure>
+               <sp>
+                  <p>Out Rogue ſpend thy Mony</p>
+               </sp>
+               <sp>
+                  <p>O good wife</p>
+               </sp>
+               <figDesc>a man kneels under a tree and petitions his wife who threatens him with a household implement</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Whight, W. Thackeray,</hi> and <hi>T. Paſſenger.</hi> 1582.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogues">
+            <pb facs="tcp:33088:2"/>
+            <head>Certain <hi>Wormwood Lectures</hi> Tranſla<g ref="char:EOLhyphen"/>ted out of ſeveral Languages into <hi>Billings-Gate DIALOG<g ref="char:V">Ʋ</g>E.</hi>
+            </head>
+            <div n="1" type="dialogue">
+               <head>
+                  <hi>1. Dialogue.</hi> Of a Woman finding her Husband in company with another Woman whom ſhe likes not</head>
+               <p>HA, ha, have I found you together ifaith? here's a goodly ſight I'le promiſe you, a Knave and a Quean together: Is't poſſible good-man Raſcal that you could give me the ſlip ſo neatly, and ſneak hither to your Trull? But I am glad that now at the laſt my good for<g ref="char:EOLhyphen"/>tune hath brought us together, we'l have about on't before we part. Thou impudent Whore, how dar'ſt thou keep company with my Huſ<g ref="char:EOLhyphen"/>band? What buſineſs have you together? none that's honeſt I doubt: Come out to me thou brazen fac'd Jade, or I'le ſend the Pot to thee with a vengeance; let me come to her you Ra<g ref="char:EOLhyphen"/>ſcal, or elſe give me the Pot: Won't you, you Rogue you, won't you? s'light I'le have my will if it coſts my life. O thou villain, ſuch bold-fac'd huſwives (as this) makes me live ſuch a life (at home) as I do: I'le be reveng'd on you both be<g ref="char:EOLhyphen"/>fore <hi>George,</hi> or I'le want will or ſtrength, before I'le let ſlip this opportunity, I'le want breath to keep me alive: Let me come to her, I ſay, thou ſlave, or I'le do that which I never thought of
+<pb facs="tcp:33088:2"/>before; if thou wilt protect thy Minion from my Fury, thou ſhalt taſte of it thy ſelf. What, ſhall the proud Harlot (think'ſt thou) out-brave me to my face? You were beſt to let me have my Peny-worths on her, for by this light I'le give her a mark that thou may'ſt know her by ano<g ref="char:EOLhyphen"/>ther time, leaſt perhaps thou may'ſt forget her: I ſaith Miſtris Minks, it were a good deed to ſlit your noſe, &amp; ſpoyl that tempting face of yours. Why doeſt thou not let me come to her, thou white liver'd Knave? Don't prevent my ſpleen upon her, leaſt thou urge it againſt thy ſelf, Come away, I ſay, for i'le not leave her as I found her; no, i'le pull a Crow with her, if I be hang'd for't.</p>
+               <div type="answer">
+                  <head>His excuſive Anſwer.</head>
+                  <lg>
+                     <l>I Prethee Wife abate thy furious ſpl<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </l>
+                     <l>Let temperance ſway thy paſſion at <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>Alas, what by this woman haſt thou <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>That moves thee to commit that <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Haſt thou obſerv'd any diſhoneſt ca<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </l>
+                     <l>Or that I have infring'd my vow in <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>I met her in the ſtreet by chance, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>Would needs beſtow on her a pint of <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>I vow to Heaven no diſhoneſty,</l>
+                     <l>Was in my thoughts; then do not thou divin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>Such evil, where no evil thought once was,</l>
+                     <l>This jealouſie, 'twere ſit thou ſhouldſt ore-paſs.</l>
+                     <pb facs="tcp:33088:3"/>
+                     <l>What I have done to her, to mine own Siſter</l>
+                     <l>I might have done, and in a lawful Sort,</l>
+                     <l>I'th' way of ſalutation once I Kiſt her,</l>
+                     <l>Having no mind of any ſordid Sport;</l>
+                     <l>And wilt thou then (without examination)</l>
+                     <l>Like an intemperate Beaſt be rul'd by paſſion?</l>
+                     <l>Conſider what is done in word, and what <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                     <l>Without prevention thou haſt done indeed:</l>
+                     <l>Think what repentance cometh after that,</l>
+                     <l>When women in raſh fury do proceed:</l>
+                     <l>Upon my life the woman is (for me)</l>
+                     <l>As honeſt as thy ſelf; or any ſhe,</l>
+                     <l>Her husband I have known this dozen years,</l>
+                     <l>If I meet with him, or he with me,</l>
+                     <l>Drink muſt be had; then leave thy childiſh fears</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rry thou'ſt ſuch ill conceit of me,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> I hope may with a woman drink</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>t diſhoneſty, mayn't they do'ſt think?</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> I ſhould have ſuffered thee to have</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> at thy over-weening wrath doth urge,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>u not made fine work; thou villain knave</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>cal, thou didſt call me, I can purge</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>om that crime, my lenity is ſuch,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rong a harmleſs woman, that's too much,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>'d not for five pounds her husband ſhould</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ar of this injury done unto his Wife,</l>
+                     <l>And in my company, perhaps it would</l>
+                     <l>Occaſion be to ſet all friends at ſtrife,</l>
+                     <pb facs="tcp:33088:3" rendition="simple:additions"/>
+                     <l>Thou know'ſt the man I am ſure; 'tis Mr. <hi>Pell,</hi>
+                     </l>
+                     <l>Who wedded her of late, and loves her well.</l>
+                     <l>Now therefore Madge (to excuſe the crime)</l>
+                     <l>Sit thou down by us, and call for thy pint,</l>
+                     <l>And I will make attonement for this crime,</l>
+                     <l>Thee with his wife henceforth I'le well acquaint:</l>
+                     <l>Wee'l all be friends, I'le make this bargain ſo,</l>
+                     <l>Her husband of this buſineſs nere ſha'l know.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="2" type="dialogue">
+               <head>
+                  <hi>Dialogue 2.</hi> This is between a jealous old Woman and her young Husband; and thus ſhe begins.</head>
+               <p>I, I, follow thy idle courſe of life ſtill, and ſee what will come on't in the end: Alas, alas, youngſter, I can ſee day at a little hole, and as far into a Milſtone as an other woman can; I obſerve how every day more and more you ſlight me, you regard not my company neither at home nor a<g ref="char:EOLhyphen"/>broad, neither at bed, nor board: you are aſha<g ref="char:EOLhyphen"/>med forſooth that I (becauſe I am ſomewhat an<g ref="char:EOLhyphen"/>tient) ſhould walk and be ſeen to go along with you in the ſtreets: but i'le warrant you if Mrs. <hi>A.</hi> or Mrs. <hi>B.</hi> or Mrs. <hi>C.</hi> or any of thoſe idle Goſſips intreat your company, oh the requeſt is no ſooner made but 'tis granted; on goe; your Cloak, and out of doors you go with any of theſe ſo haſtily and willingly, as if you were to re<g ref="char:EOLhyphen"/>ceive a thouſand pounds: but if I ſpeak to you, nay deſire you, and wooe you as it were for my life, to walk with me into the Town to viſit my
+<pb facs="tcp:33088:4" rendition="simple:additions"/>acquaintance, or in the fields, or to <hi>Iſlington,</hi> to be merry and recreate my ſelf, oh, what buſineſs is pretended? What excuſes are framed? What Letters we have to write, what men we have ap<g ref="char:EOLhyphen"/>pointed to meet (about earneſt occaſions) juſt at the very time? And if I do chance to get you once in a month or ſix weeks to walk with me any where, don't I perceive how you march before me after four miles an hour? if I can limp after within ſight of you, well and good, if not, I may loſe my ſelf for any care that you take, and why is all this Sir, think you? but becauſe I poor old wretch, ſhould not be taken notice of to be your wife; and I obſerve (thank you) what nods and winks you uſe to other women in the ſtreets: As who ſhould ſay, take warning, the old woman is behind, therefore paſs by and take no acquain<g ref="char:EOLhyphen"/>tance: and when we are in company to be merry; not a ſmile, nor a cheerful look ſhall we get from you, no, you are then in your melancholy dumps: behaving your ſelf rather like an Hermit in his Cell, or a Monk in his Cloyſter, then a merry man at the Tavern or Ale-houſe: But do you think Sir, that I cannot hear what a merry companion you are in my abſence? Oh! then eſpecialy if ſuch a one, or ſuch a one, or any other handſom woman be in your company, you'l ſing, dance, tell mer<g ref="char:EOLhyphen"/>ry tales, kiſs, dally, complement, drink healths to that Miſtris Fart, and this Miſtris Fiſs, and if the
+<pb facs="tcp:33088:4" rendition="simple:additions"/>time and place be ſuitable; Well, well, I ſay no more for ſhame, and ifaith, ifaith i'le turn away that fine Mrs. Minks your Maid, for ſomething that I have ta'n notice of within theſe few days: your Noſe bled forſooth the other day, and you muſt needs through your foul Hankercher to her, but ſhe (with a wanion to you both) muſt hold the Baſon till you waſh your hands, marry gip with a murrain, but for that matter let me alone, i'le remedy that, or elſe I'le want of my will i'le keep no ſuch fine ſnouted minions as ſhe is, i'le have a homely, huſwively wench, that has more honeſty than beauty, and a better heart than a face, i'le not be thus plagued long, out upon't that a woman that has out-laſted the date of four husbands, and now comes to be ſlighted by a boy of two and twenty; well, thy unkind dealing will be the death of me, before nature hath appointed, I took thee to be the ſtaff of my age, but I doubt ſhortly thou wilt prove a rot<g ref="char:EOLhyphen"/>ten one with a pox: you marry an old Rich Widdow for a comfort: well I have done, 'tis but folly to ſpeak any more now.</p>
+               <div type="answer">
+                  <head>His Anſwer.</head>
+                  <l>NO more for ſhame fond fool I think</l>
+                  <l>Thou canſt produce from that foul ſink,</l>
+                  <l>Which makes thy very words to ſtink of malice</l>
+                  <l>Were I a ſingle man again,</l>
+                  <pb facs="tcp:33088:5"/>
+                  <l>I'de not have thee I tell the plain,</l>
+                  <l>Wert thou worth more than the K. of Spain's chief Palace.</l>
+                  <l>I do confeſs I am ſerv'd but juſt,</l>
+                  <l>Who for that curſt <hi>Pactolian</hi> duſt,</l>
+                  <l>Muſt like an Aſs my free neck thurſt in the halter.</l>
+                  <l>Old Widdows, marry hang them all,</l>
+                  <l>That will bring young men into thrall,</l>
+                  <l>This will the ſtouteſt heart appall, and alter,</l>
+                  <l>Fond jealouſie I plainly find,</l>
+                  <l>Is incident to women kind,</l>
+                  <l>Chiefly old women are inclin'd unto it.</l>
+                  <l>Whoſe conſcience tells them that they can</l>
+                  <l>Not give content to a young man:</l>
+                  <l>Experience ſince the World began doth ſhew it.</l>
+                  <l>Pretious Woman muſt I be</l>
+                  <l>Kept in ſubjection by thee?</l>
+                  <l>I who before could travel free at pleaſure.</l>
+                  <l>Now whether go you is the word,</l>
+                  <l>That my old Wife doth me afford,</l>
+                  <l>I now repent my haſty accord at leiſure.</l>
+                  <l>I ſee this great deſpairity</l>
+                  <l>In Wedlock brings much miſery;</l>
+                  <l>For I am not full twenty three till Eaſter.</l>
+                  <l>And thou art fourſcore and two years old,</l>
+                  <l>A ſhameleſs tale 'tis to be told,</l>
+                  <l>Nay, that's the leaſt on't I dare hold a Teaſter.</l>
+                  <l>And yet forſooth I dare not walk</l>
+                  <l>Abroad, or with woman talk:</l>
+                  <pb facs="tcp:33088:5"/>
+                  <l>Leſt I take Cheeſe inſtead of Chalk, you doubt it.</l>
+                  <l>I can't blame love, nay, ſays the Elf</l>
+                  <l>Was cauſe o'th' match, no 'twas thy pelf:</l>
+                  <l>O would that I had kept my ſelf without it.</l>
+                  <l>For I have ſold my liberty,</l>
+                  <l>My freedom's chang'd for ſlavery.</l>
+                  <l>Though I have nere ſo honeſtly ſuſpition</l>
+                  <l>Ariſing from the forenam'd cauſe;</l>
+                  <l>Still matters of diſſention draws</l>
+                  <l>No love, but quite againſt all Laws diviſion.</l>
+                  <l>This is the life that I live in.</l>
+                  <l>No woman dares give me a Pin, to maunder.</l>
+                  <l>But preſently you do begin to</l>
+                  <l>And if a man familiar be,</l>
+                  <l>Eſpecially one of mean degree,</l>
+                  <l>Then ſtrait you judge that he's for me a Pander:</l>
+                  <l>But ſince there is no remedy,</l>
+                  <l>I now muſt bare it patiently,</l>
+                  <l>And make ſo much hilarity as may be,</l>
+                  <l>If theſe ill words I don't obſerve,</l>
+                  <l>Nor from the rules of Wedlock ſwerve,</l>
+                  <l>My ſelf I will not pine nor ſtarve By'r Lady.</l>
+                  <l>No, ſay or do what thou think'ſt fit,</l>
+                  <l>(According to thy childiſh wit)</l>
+                  <l>I will be ſorry near a whit the leſs for't,</l>
+                  <l>So long as thou do'ſt live, I will</l>
+                  <l>Be conſtant, kind, and loving ſtill,</l>
+                  <pb facs="tcp:33088:6"/>
+                  <l>I paſs not (though thou wiſh me ill not this for't.</l>
+                  <l>Thus wife my reſolution now</l>
+                  <l>Thou'ſt heard, all true to thee I vow, believe on't.</l>
+                  <l>If thy good nature can allow,</l>
+                  <l>Then ceaſe to make this needleſs ſtir,</l>
+                  <l>If thou wilt not, ſay I'm a Cur,</l>
+                  <l>If for the ſame I do not fur<g ref="char:EOLhyphen"/>ther grieve on't,</l>
+                  <l>And let all young men for my ſake,</l>
+                  <l>Eſpecial heed and warning take,</l>
+                  <l>How they with Widows matches make for Riches.</l>
+                  <l>Unleſs with patience they can bear</l>
+                  <l>Some wrong, ſuch men do find Hell here,</l>
+                  <l>If ſhe brings Wealth, (though old) ſhee'l wear the Breeches.</l>
+               </div>
+            </div>
+            <div n="3" type="dialogue">
+               <head>
+                  <hi>Dialogue 3.</hi> Between a proud Woman and her Husband about Apparrel. She thus begins</head>
+               <p>WHy thou Whorſon Raſcally fellow, didſt thou marry me to make me a ſhame to my ſelf and all my Kin? Other mens wives for<g ref="char:EOLhyphen"/>ſooth (of an inferiour rank to you) can go gal<g ref="char:EOLhyphen"/>lant and brave, and have what apparel they ask for, while I go like a very Drudg: Nay, almoſt as bad as a Dunghill-raker. I'le warrant you there's Mrs. <hi>G.</hi> at the Horns, Mrs. <hi>F.</hi> at the Goat, and Mrs. <hi>S.</hi> at the Ram, theſe can change
+<pb facs="tcp:33088:6"/>Gowns as oft as the Earth does her Livery, that's twice in a year, Hats, Aprons, and new Dreſſings, are ordinarily altered with the Moon; and <hi>Saturday night</hi> ſets not a period to the week more certainly than the <hi>Shoo-maker</hi> brings new ſhooes, but I poor ſilly wretch muſt go like <hi>Joan hold my ſtaff,</hi> with a gown and a hat of the faſhion in Eighty eight. A pair of hoſe &amp; ſhooes at <hi>Eaſter,</hi> (I am ſure I had none ſince) now 'tis <hi>Midſummer;</hi> I have never a pair of Gloves worth the drawing on my hands; thou never beſtoweſt above eight-pence or ten-pence (at the moſt) of a pair for me. Now to be brief, mark what I ſay to thee, I have complained ſo long in vain, that I am weary of that way: But i'le try another ifaith, thou hadſt been better to have been a little more free of thy purſe, for I know what I know; well there's enough ſaid for this time: go to, i'le want no apparel good<g ref="char:EOLhyphen"/>man Raſcal, I wont ifaith, pick Engliſh out of that if thou canſt: if thou wilt not beſtow a new faſhion'd hat upon me, i'le beſtow an old faſhi<g ref="char:EOLhyphen"/>on'd cap upon thee in troth, and that quickly too, there's more, crack me that Nut ſirrah.</p>
+               <div type="answer">
+                  <pb facs="tcp:33088:7"/>
+                  <head>His Anſwer.</head>
+                  <l>WHy how now <hi>Joan,</hi> what do'ſt in earneſt ſpeak?</l>
+                  <l>Then I perceive thy judgment is but weak,</l>
+                  <l>Do'ſt threaten me? then I were beſt to look</l>
+                  <l>About me, ſo I will in every nook.</l>
+                  <l>Thoud'ſt better to have held theſe words within,</l>
+                  <l>Canſt thou imagin any good to win:</l>
+                  <l>That to extremity was ne're yet put,</l>
+                  <l>I have maintain'n thee in an honeſt ſort</l>
+                  <l>As I was able, now i'le keep thee ſhort;</l>
+                  <l>Seeing thou telſt me whereto I ſhall truſt,</l>
+                  <l>I'le put thee to't ifaith; and 'tis but juſt,</l>
+                  <l>Thou Map of impudence is this the way</l>
+                  <l>To get fine cloaths, and muſt you needs betray</l>
+                  <l>Thy ſordid thoughts; well, mark the end on't Jug,</l>
+                  <l>Think not that I will keep thee fine and ſmug,</l>
+                  <l>To pleaſe the fancy of my rivals: no,</l>
+                  <l>I'm very glad ſo much thy mind I know:</l>
+                  <l>Now ſhould I give thee Apron, Gown, or Hat;</l>
+                  <l>Then I were worthy to be pointed at.</l>
+                  <l>Sith to my face thou dar'ſt preſume to ſay,</l>
+                  <l>That thou wilt get new cloaths another way,</l>
+                  <l>Go to thy chance, my heart ſhall have no ſhare in</l>
+                  <l>Thy gains, this is no place to ſell thy ware in;</l>
+                  <pb facs="tcp:33088:7" rendition="simple:additions"/>
+                  <l>For (though I can't deny thee for my wife)</l>
+                  <l>Yet ſith thou gav'ſt me ſuch a cauſe I may</l>
+                  <l>Abjure thy company, begone I ſay.</l>
+                  <l>Poor <hi>Joan,</hi> (though proud before perceiving well</l>
+                  <l>How matters went, upon her knees ſhe fell;</l>
+                  <l>Husband ſaith ſhe, though I ſpeak more than's fit;</l>
+                  <l>Excuſe my tongue which runs before my wit.</l>
+                  <l>I never wrong'd you <hi>John</hi> by this good light,</l>
+                  <l>Nor ne're intend to do although in ſpight</l>
+                  <l>I ſpoke theſe ſpeeches, vext through want of cloaths,</l>
+                  <l>Yet if you'l credit me by all the oaths</l>
+                  <l>That can be ſworn, for all my idle brags,</l>
+                  <l>Ere i'de perform my words i'le go in rags:</l>
+                  <l>No, no, ſweet <hi>John,</hi> uſe me even as thou wilt,</l>
+                  <l>Although my tongue (in choller) runs a tilt,</l>
+                  <l>I will be loyal to thee, yet I muſt</l>
+                  <l>Confeſs that this thy anger is but juſt:</l>
+                  <l>I have deſerv'd through my o're-weening ſpeech</l>
+                  <l>Thy conſtant hatred, yet let me beſeech</l>
+                  <l>(Upon my meek acknowledge o'th crime)</l>
+                  <l>That thou wilt but excuſe my fault this time.</l>
+                  <l>
+                     <hi>John</hi> moved with her Crocodilian tears,</l>
+                  <l>Her corps dejected by the hand uprears.</l>
+                  <l>Well <hi>Jugg,</hi> ſays he, upon this Proteſtation,</l>
+                  <l>I am contented to ſuppreſs my paſſion</l>
+                  <pb facs="tcp:33088:8" rendition="simple:additions"/>
+                  <l>And re-admit thee into favour: thou</l>
+                  <l>Muſt be content with what cloaths I allow,</l>
+                  <l>I, I, ſays <hi>Joan,</hi> and think my ſelf unworthy</l>
+                  <l>Of the worſt rags I have had ſweet-heart from thee:</l>
+                  <l>I will refuſe to do no lawful thing,</l>
+                  <l>Such fruits of diſcord henceforth ſhall not ſpring</l>
+                  <l>From my fond fancy; then all that's amiſs,</l>
+                  <l>Quoth <hi>John,</hi> I freely pardon, and this Kiſs</l>
+                  <l>Shall ſeal our new contract of love, and none</l>
+                  <l>By my conſent ſhall break it, Amen, ſays <hi>Joan.</hi>
+                  </l>
+                  <l>So <hi>John</hi> and <hi>Joan</hi> do like a loving pair</l>
+                  <l>Joyntly agree, (and now with ſpeaking fair)</l>
+                  <l>Againſt next Sunday ſhe is promis'd that</l>
+                  <l>He'l buy her a new faſhion'd Gown and Hat.</l>
+                  <l>Let all wives take a preſident of <hi>Joan,</hi>
+                  </l>
+                  <l>Fair words can get new cloaths, foul words get none</l>
+                  <l>Which was the wiſer of this couple, I</l>
+                  <l>Leave to their judgment who both cauſes try.</l>
+               </div>
+            </div>
+            <div n="4" type="dialogue">
+               <head>
+                  <hi>Dialogue 4.</hi> A pining covetous Woman to her Husband for Mony to maintain her ſelf and Children.</head>
+               <p>I Have brought my ſelf to a fine paſs, have I not think you? What muſt I be kept at my allowance? Why thou hard-hearted wretch, doſt think that I with my three Children and a Maid
+<pb facs="tcp:33088:8" rendition="simple:additions"/>and thy ſelf when thou pleaſeſt, can be maintain<g ref="char:EOLhyphen"/>ed with twelve ſhillings a week, as the time is now? What do'ſt thou think I can buy for this Mony, unleſs we can make ſhift with <hi>Rye</hi> Bread, <hi>Eſſex</hi> Cheeſe, and ſmall bear: and if I buy any fleſh, my Mony would not reach any higher then <hi>Sheeps-heads, Ox-cheeks,</hi> and <hi>Midriffs:</hi> if I attain to a Leg, or piece of <hi>Neck-beef,</hi> then I think we are daintily fed<g ref="char:punc">▪</g> oh, but do'ſt thou imagin, that I am ſo ſenſeleſs to think, that (though now and then for faſhion ſake thou eat of that hard fare without finding fault) thou haſt no better cheer abroad i'le warrant thee ifaith, thou ſhalt ſhift for one; and leave me to deal with the reſt ſo well as I can: for before I will endure this courſe long, i'le leave thee and go far enough: Think with thy ſelf how a wo<g ref="char:EOLhyphen"/>man is able to endure it, that thou ſhouldeſt ſit in a Tavern, Ale-houſe, or Tobacco-ſhop, there quaffing, bouzing, and ſmoaking your Noſe, many times from morning till night, not regarding your family; but ifaith, ifaith, here<g ref="char:EOLhyphen"/>after I will follow you more narrowly than I have done, and find you if you be above ground, or in any blind Celler under ground, and make the place too hot to hold you and your Companions alſo for the time; and make the pots, cups, and glaſſes fly about, and break them all in pieces, pay for them who liſt, I care
+<pb facs="tcp:33088:9" rendition="simple:additions"/>not, it ſhall not be your ſmooth words then ſhall qualifie the fury of my ſpleen, as ſit down, ſit down by me Sweet-heart, and be patient, il'e drink but the other Pot, and be gone; no ſir, i'le have you away with me, no excuſes ſhall ſerve turn, you have too often deceived me in that kind already. For, now I intend to take a new courſe with you, that the World may be better with us than it is, and we may live in better faſhion and credit amongſt our neighbours than we do, or elſe you ſhall ſee that i'le perform, what I have formerly ſpo<g ref="char:EOLhyphen"/>ken, and be no whit leſs than my word: but this courſe ſhan't continue long, i'le ſet ſomething flying ifaith, 'le do ſomething e'reit be long that ſhall vex every vein in thy heart, thou churliſh Miſer, don't think that I like a poor drudge will famiſh my ſelf and my ſmall Children, while thou ſpendeſt thy mony a<g ref="char:EOLhyphen"/>broad, or ſaveſt it for ſome worſer end. If thou wilt get brats (with a wanion to thee) allow means to keep them: (for according to the old Proverb) <hi>i'le not take all the care, and keep the Child too.</hi> Conſtrue my words to what ſenſe thou wilt, ſeeing thou put teſt me to't, i'le ſpeak, and do too more then I ſpeak: well, few words are beſt, but ifaith give me better maintenance, or elſe i'le go ſhift for my ſelf, and leave thee and thy family to ſhare it by the teeth; i'le to
+<pb facs="tcp:33088:9" rendition="simple:additions"/>ſervice ifaith, if I muſt needs be a drudge and a ſlave, it ſhan't be under one that took me to maintain me like a woman: twelve ſhillings a week among five or ſix on's: No more of that if you love me.</p>
+               <div type="answer">
+                  <head>His Anſwer.</head>
+                  <lg>
+                     <l>HEy day, <hi>Nell,</hi> what up aloft?</l>
+                     <l>How does thy tongue at random run?</l>
+                     <l>I do confeſs thou'ſt often ſpoke,</l>
+                     <l>Yet nothing for redreſs is done,</l>
+                     <l>Nor nothing ſhall by my conſent,</l>
+                     <l>For i'le know how my means is ſpent:</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>Is't not a wonder, that three Barns,</l>
+                     <l>A Maid, thy ſelf, and I (who ſeek</l>
+                     <l>To get it, and the money earns)</l>
+                     <l>Should on twelve ſhillings live a week?</l>
+                     <l>Alas, I earn (and work full hard)</l>
+                     <l>But ſixteen, ſo but four is ſpar'd.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>Wert thou a House-wife; as thou doſt</l>
+                     <l>Profeſs thy ſelf, (well I can tell)</l>
+                     <l>I know our Houſhold with that coſt</l>
+                     <l>May be maintain'd and live full well.</l>
+                     <pb facs="tcp:33088:10" rendition="simple:additions"/>
+                     <l>But thou thy ſelf doeſt ſomething ſpare,</l>
+                     <l>For which we all the worſe do fare.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>Now women are naturally bent</l>
+                     <l>To pining, though they have no need,</l>
+                     <l>They ſeldom are in heart content;</l>
+                     <l>However they be cloath'd or feed.</l>
+                     <l>For certainly didſt thou not hoord</l>
+                     <l>This ſtipend would good fare afford.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>Wert thou examined aright,</l>
+                     <l>(As that to do I am unwilling)</l>
+                     <l>Thou of that means thou mak'ſt ſo ſlight,</l>
+                     <l>Yet out of twelve thou ſav'ſt a ſhilling.</l>
+                     <l>I know moſt women thus proceed,</l>
+                     <l>They ſtill complain before they need.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>And ſince thou doeſt abuſe me ſo</l>
+                     <l>Of parſimony without a cauſe,</l>
+                     <l>Before i'le let my money go,</l>
+                     <l>Upon the matter I will pauſe:</l>
+                     <l>Though I confeſs all things are dear,</l>
+                     <l>That means might buy us better chear.</l>
+                  </lg>
+                  <pb facs="tcp:33088:10" rendition="simple:additions"/>
+                  <lg n="7">
+                     <head>7.</head>
+                     <l>(I plainly find unto my grief)</l>
+                     <l>That ſlender fare thou doſt provide,</l>
+                     <l>Inſtead of wholſome powder'd beef,</l>
+                     <l>Thou dreſseſt what I can't abide:</l>
+                     <l>And 'cauſe thou would'ſt prevent the worſt,</l>
+                     <l>Thou (with the Proverb) <hi>call'ſt Whore firſt.</hi>
+                     </l>
+                  </lg>
+                  <lg n="8">
+                     <head>8.</head>
+                     <l>Come, i'le my ſelf be Caterer,</l>
+                     <l>And take my charge out of thy care;</l>
+                     <l>Upon my life (for all this ſtir)</l>
+                     <l>Leſs Money ſhall buy better fare</l>
+                     <l>Her projects failing, pining <hi>Nell</hi>
+                     </l>
+                     <l>Did cry <hi>peccavi,</hi> all is well.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="5" type="dialogue">
+               <head>
+                  <hi>Dialogue 5.</hi> A Woman to her Husband finding him at the Tavern or Ale-houſe.</head>
+               <p>SO, ſo now 'tis as it ſhould be, this is your good Husbandry, is it not? Now the work goes well forward, doth't not? This is the way to maintain your Wife and Children, wilt not? ifaith you drunken Raſcal, I'm glad I have (at the laſt) found out your haunt, this way your Money goes; 'tis no marvel you are ſo
+<pb facs="tcp:33088:11" rendition="simple:additions"/>ſparing at home, there you grudge a penny to fetch milk for your Children; nay, you'l hard<g ref="char:EOLhyphen"/>ly allow Soap and Candle, but every thing is too much; this groat is grumbled at, that two pence is pin'd at. But here among your poor companions, twelve or eighteen pence is not thought much of; but ifaith i'le take an order with you, i'le ferret you out in all your hole, come, will you come away, Sir? I proteſt if you come not altogether the ſooner, mark the end on't, if I come again and find you here, i'le break all the juggs, claſſes, pots, and pipes that I can find upon the Table, I will in troth; and now I think on't, i'le have you with me, or i'le ne're go away alive, you ſhall not put me off with your whimſies, you ſhall not, you drunken beaſt, you ſhall not, <hi>&amp;c.</hi>
+               </p>
+               <div type="answer">
+                  <head>His Anſwer.</head>
+                  <lg n="1">
+                     <head>1.</head>
+                     <l>I Prethee good Wife,</l>
+                     <l>Leave making of ſtrife,</l>
+                     <l>And ſit down by me if thou pleaſeſt,</l>
+                     <l>But if thou wilt not,</l>
+                     <pb facs="tcp:33088:11" rendition="simple:additions"/>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>en be gon like a Trot,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n my company much thou diſpleaſeſt.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hat comeſt thou for,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>owing I abhor</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> be thus purſu'd and reproved?</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>n leave off thy prate,</l>
+                     <l>I tell thee old <hi>Kate,</hi>
+                     </l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> patience is very much moved.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>Tis in vain to reſiſt,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> i'le come when I liſt,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>en drink and be gone without ſcolding:</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſure what I ſpend,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>et, there's an end,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o thee I am nothing beholding.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>When ſhe did perceive</l>
+                     <l>That he would not leave</l>
+                     <l>His company to go home with her;</l>
+                     <l>She ſate to him cloſe,</l>
+                     <l>And fudled her noſe,</l>
+                     <l>And both went home reeling together.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="6" type="dialogue">
+               <pb facs="tcp:33088:12" rendition="simple:additions"/>
+               <head>
+                  <hi>Dialogue 6.</hi> A Woman to her Husband, coming home drunk.</head>
+               <p>ARE you come, good-man Pot-ſhaker? 'tis very well done, how hard you labour'd to day, are not your arms weary with lifting the pot? I do not think but they be, out you filthy beaſt, art not aſhamed to be abroad all day, and then come home at night ſo drunk that thou art ſcarce able to ſtand on thy legs? you have been in ſome good company, I believe, if the truth were known: I have been in all the hou<g ref="char:EOLhyphen"/>ſes through the whole Pariſh to ſeek you, and could hear no news of you; at the <hi>Fox</hi> you have not been this ſix dayes, at the <hi>Feathers,</hi> not ſince <hi>Fryday</hi> laſt, at the <hi>Frying-pan</hi> you were never ſeen ſince <hi>Shrove-tueſday;</hi> no, no, you have gotten ſome new haunt. Well, I ſhall ſmell out all your holes, come you drunken beaſt, get you to bed: I ſee no ſupper will down with you to night, indeed 'tis better well ſav'd, than id<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſpent: Come away thou foul ſot, thoul't nod ſo long till thoul't fall i'th fire a<g ref="char:EOLhyphen"/>non: why doſt not come, thou drunken Piſ<g ref="char:EOLhyphen"/>pot? <hi>&amp;c.</hi>
+               </p>
+               <div type="answer">
+                  <pb facs="tcp:33088:12" rendition="simple:additions"/>
+                  <head>His drunken Anſwer.</head>
+                  <lg n="1">
+                     <head>1.</head>
+                     <l>THou muſty, ruſty, duſty drab,</l>
+                     <l>Why doſt thou look ſo like a crab?</l>
+                     <l>this my welcome home?</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ay then ifaith i'm gone again,</l>
+                     <l>I can ſpeak, i'le tell thee plain,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e not be thus or'e-come.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>Why a a-am I drunk thou dirty ſlut,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hat thou ſuch tricks on me doſt put?</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e make the eat thy words:</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m as ſober (I ſuppoſe)</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> in the morning when I roſe;</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o more of theſe diſcords.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, a-am I not quietly come in?</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd but that thou didſt firſt begin</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>o abuſe me in this kind,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd ſith thou doeſt my humours thwart,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> could almoſt find in my heart</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oo beat thee lame or blind.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>When ſhe ſaw what her words had wrought,</l>
+                     <l>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd to what humour he was brought,</l>
+                     <pb facs="tcp:33088:13" rendition="simple:additions"/>
+                     <l>She wiſely chang'd her note,</l>
+                     <l>And with fair words got him to bed:</l>
+                     <l>But in the morning what ſhe ſaid,</l>
+                     <l>The ſecond part ſhall ſhew't.</l>
+                  </lg>
+               </div>
+               <div type="advice">
+                  <head>An Advice for Women.</head>
+                  <l>A Womans rule ſhould be in ſuch a faſhion,</l>
+                  <l>Only to rule her Houſhold and her paſſion:</l>
+                  <l>And her obedience never out of ſeaſon,</l>
+                  <l>So long as either Husbands laſts or reaſon,</l>
+                  <l>Ill fares that harmleſs Family, that ſhows</l>
+                  <l>A Cock that's ſilent, and a Hen that crows,</l>
+                  <l>I know not which live more unnatural lives,</l>
+                  <l>Obedient Husbands, or Commanding wives.</l>
+               </div>
+               <div type="conclusion">
+                  <head>The Concluſion.</head>
+                  <l>And now my Muſe with me is like to ſcold,</l>
+                  <l>For uſing her aſſiſtance at this time,</l>
+                  <l>In railing Proſe, and flattering pleaſing Rime<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Though feminine, yet ſhe's not of that mould<g ref="char:punc">▪</g>
+                  </l>
+                  <l>For ſhe holds froward language for a crime,</l>
+                  <l>And ſayes, with her I have been over bold:</l>
+                  <l>The forked Mountains ſhe in haſte doth clime,</l>
+                  <l>And at her partings thus to me ſhe told,</l>
+                  <l>I doubt (my Friend thou't purchaſe) womens hatred,</l>
+                  <l>When theſe my lines are amongſt the people ſcatter'd.</l>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:33088:13"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
